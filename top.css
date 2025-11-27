@@ -1,0 +1,16 @@
+@charset "utf-8";
+ul li a {
+	line-height: 50px;
+	color: #0200FF;
+}
+body {
+	background-image: url(360_F_748841802_0wd4SgvF6ylo62ukr9TFflhsv0mrKNNw.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body h1 {
+	color: #001160;
+}
+body p {
+	color: #00215B;
+}
